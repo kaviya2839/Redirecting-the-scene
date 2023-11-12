@@ -1,4 +1,4 @@
-# Redirecting-the-scene
+## EX-07 Redirecting-the-scene
 
 ## Aim:
 To redirect a scene using C# program in Unity engine.
